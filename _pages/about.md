@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Manqi, a final-year graduate student in Electric Engineering at Tsinghua University.
-
-My research interests are optimization, game theory, control, and their application in power systems.
-
-I received my bachelor’s degree with honor in Management Science and Technology at North China Electric Power University.
-
-In my spare time, I enjoy hiking, badminton, traveling, and photography.
+Hi! I'm Manqi, a final-year graduate student in Electric Engineering at Tsinghua University. My research interests are optimization, game theory, control, and their application in power systems. I received my bachelor’s degree with honors in Management Science and Technology at North China Electric Power University. I enjoy hiking, badminton, and traveling in my spare time.
 
 News and Updates
 ======
